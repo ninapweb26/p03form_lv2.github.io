@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(207, 227, 245);
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 10px;
+}
+hr {
+    width: 50%;
+    height: 5px;
+    background-color: black;
+}
+.title {
+    line-height: 5px;
+}
+.penulisan {
+    text-indent: 15px;
+    margin-bottom: 0px;
+}
+.table-2 {
+    border-collapse: collapse;
+}
+button {
+    width: 100%;
+    margin-top: 20px;
+    outline: none;
+    border: none;
+    background-color:gray;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
